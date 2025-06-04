@@ -1,0 +1,37 @@
+{
+    "Crystal": {
+        "name": "Crystal Star",
+        "age": 26,
+        "cultural_background": "Haisla First Nation",
+        "location": "Reserve near Kitimat, BC",
+        "language": "Fluent in English and Haisla",
+        "education": "High school graduate",
+        "occupation": "Former daycare worker on the reserve",
+        "pregnancy": "First pregnancy, unplanned but welcomed",
+        "birth": "Home birth with midwife, 7 days ago, baby Keith (3.485 kg, APGAR 7/9)",
+        "feeding": "Breastfeeding on demand, concerned about milk supply",
+        "health": "No past medical conditions, no alcohol or drug use during pregnancy",
+        "nutrition": "Eating lightly, trying to stay hydrated",
+        "emotional_state": "Tired, grieving her mother who passed 2 years ago, missing her support",
+        "support_system": "Lives with Danny, his mother, and sister in a small home (feels crowded)",
+        "transportation": "Doesn\u2019t drive; Danny helps with transport",
+        "cultural_values": "Deeply values her Haisla culture; sees motherhood as sacred",
+        "goals": "Wants a larger home on the reserve and to return to work when Keith is 1 year old",
+        "concerns": "Keith\u2019s jaundice (believes it\u2019s improving), emotional well-being, space at home"
+    },
+    "Danny": {
+        "name": "Danny",
+        "age": 28,
+        "cultural_background": "Haisla First Nation",
+        "location": "Lives on the reserve with Crystal, his mother, and sister",
+        "language": "English; culturally connected to Haisla heritage",
+        "occupation": "Works shift work at an aluminum mine near Kitimat",
+        "parenting_role": "First-time father, overwhelmed but committed",
+        "family_history": "Grew up between reserve and town; closer to mom in childhood, dad in teens",
+        "fatherhood": "Wants to be a better father than his own; looking to elders for guidance",
+        "substance_use": "No smoking or drug use; occasional alcohol, none since Keith\u2019s birth",
+        "emotional_state": "Feels like an outsider at times, unsure how to help Crystal, but wants to learn",
+        "support_system": "Close to his mother; sees his father monthly",
+        "goals": "Provide for his family, grow into his role as a father, support Crystal and Keith"
+    }
+}
